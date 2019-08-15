@@ -1,0 +1,51 @@
+.head {
+	float:left;
+	font-size: 24px;
+	color:	red;
+}
+.nav {
+	float:right;
+}
+
+.clearfix:before,.clearfix:after{
+	content:"";
+	display: table;
+}
+.clearfix:after{
+	clear: both;
+}
+
+.section1{
+	float: left;
+}
+.para{
+	width:600px;
+	margin-top: 100px;
+}
+.image {
+	float: right;
+	padding-top: 30px;
+}
+
+/*.sec2 {
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.image2 {
+	display: inline-block;
+	vertical-align: bottom;
+}
+.head2{
+	color: green;
+	font-size: 24px;
+
+}
+.para2{
+	width: 300px;*/
+}
+/*main {
+	width: 500px;
+	height: 500px;
+	margin: auto;
+}*/

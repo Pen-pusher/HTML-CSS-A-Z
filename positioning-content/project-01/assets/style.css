@@ -1,0 +1,47 @@
+*,*:before,*:after{
+	box-sizing: border-box;
+}
+.wrapper {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.clearfix:before,.clearfix:after {
+	content: "";
+	display: table;
+}
+.clearfix:after {
+	clear:both;
+}
+h2 {
+	text-align: center;
+	color: #2F2A1F;
+	font-size: 24px;
+	padding: 2%;
+	font-family: 'Lexend Deca', sans-serif;
+}
+.div1 {
+	float: left;
+	font-size: 15px;
+}
+.div2 {
+	width: 25%;
+}
+.div3 {
+	width: 50%;
+}
+body {
+	background-color: #EFEFEF;
+}
+
+.div-background {
+	background: #FEFEFE;
+}
+
+.para {
+	font-family: 'Lexend Deca', sans-serif;
+	padding: 2%;
+}
+.image{
+	padding-left: 10%;
+	width: 100%;
+}

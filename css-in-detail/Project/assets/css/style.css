@@ -1,0 +1,39 @@
+/* use this for commenting in css*/
+
+#nav {
+	background: pink;
+}
+
+header nav {
+	font-size: 19px;letter-spacing: 2px
+}
+
+main{
+	margin-left: 500px;margin-right: 500px
+}
+
+.time {
+	color: blue;
+}
+
+.bt1 {
+	color: blue;float: left
+}
+
+.para {
+	width: 700px;font-size: 24px;
+}
+
+footer {
+	color: grey;background: black;text-align: center
+}
+
+.head {
+	font-size: 34px;
+	font-style: ;
+}
+
+body {
+	font-family: 'Blinker', sans-serif;
+
+}

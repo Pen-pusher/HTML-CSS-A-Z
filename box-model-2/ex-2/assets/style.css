@@ -1,0 +1,35 @@
+.box1{
+	width:300px;
+	height: 200px;
+	border: 6px solid red;
+	border-radius: 20px;
+	padding:20px;
+	margin: 20px;
+}
+
+.box2{
+	width:350px;
+	height: 300px;
+	border: 6px dotted red;
+	border-radius: 20px;
+	padding:20px;
+	margin: 20px;
+}
+
+.box3{
+	width:300px;
+	height: 200px;
+	border-top: 6px solid red;
+	border-right: 6px solid green;
+	border-bottom: 6px solid blue;
+	border-left: 3px solid yellow; 
+	border-radius: 20px;
+	padding:20px;
+	margin: 20px;
+}
+
+body {
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+}

@@ -1,0 +1,23 @@
+.div1 {
+	display: inline-block;
+
+}
+.header {
+	color: blue;
+	font-size: 24px;
+}
+.image{
+	vertical-align: bottom;
+	display: inline-block;
+}
+
+.para {
+	/*vertical-align: middle;*/
+	font-size: 24px;
+	width: 300px;
+	margin-top: 100px;
+}
+
+.nav {
+	
+}
