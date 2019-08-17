@@ -29,6 +29,31 @@
 		background-position: center;
 		background-size: 100% 100%;
 	}
+	/*banner1*/
+
+
+	.head2 {
+			background-image: url("../media/images/slide01.jpg");
+			height: 600px;
+			background-position: center;
+			background-size: 100% 100%;
+		}
+	.head3 {
+			background-image: url("../media/images/slide02.jpg");
+			height: 600px;
+			background-position: center;
+			background-size: 100% 100%;
+		}
+	.head4 {
+		background-image: url("../media/images/slide03.jpg");
+		height: 600px;
+		background-position: center;
+		background-size: 100% 100%;
+	}
+
+
+
+	/**/
 	.heading {
 		font-size: 80px;
 		font-weight: bold;
@@ -130,3 +155,13 @@
  	font-family: 'Source Sans Pro', sans-serif;
 	font-size:20px; 
  }
+ /*circle*/
+ .circle {
+ 	text-align: center;
+	margin-top: 180px;
+	color: white;
+
+ }
+  .circle a {
+  	color: white;
+  }
