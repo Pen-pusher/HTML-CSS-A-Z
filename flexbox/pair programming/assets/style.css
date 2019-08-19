@@ -17,6 +17,8 @@
 
 body {
 	font-family: 'Merriweather Sans', sans-serif;
+	background-image: linear-gradient(to left, red, black);
+
 }
 
 /**/
@@ -27,6 +29,7 @@ body {
 	margin: 0 auto;
 	display:flex;
 	justify-content: space-around;
+
 }
 
 .navigation {
@@ -45,7 +48,6 @@ h1, a {
 .navigation a {
 	color: white;
 	text-decoration: none;
-	
 	text-transform: uppercase;
 	font-size: 15px;
 	font-weight: 600;
@@ -66,6 +68,7 @@ nav {
 	justify-content: flex-start;
 	height: 200px;
 	width: 100%;
+
 
 }
 .item1 {
@@ -106,11 +109,13 @@ button {
 .sec-2{
 	margin-top: 60px;
 	margin-bottom: 80px;
+
 }
 h3 {
 	font-size: 30px;
 	font-weight: 600;
 	margin-bottom: 40px;
+	color: white;
 }
 .sec-2 p {
 	margin-right: 40px;
@@ -143,7 +148,11 @@ span {
 .text {
 	width: 60%;
 	padding: 60px 30px;
+	background-image: linear-gradient(to right, red, black);
+	color: white;
+
 }
+
 .row {
 	display: flex;
 	background-color: white;
@@ -152,12 +161,16 @@ span {
 }
 .sec-3 img {
 	width: 100%;
+	border: 1px solid black;
+	outline: 1px solid red;
 }
 h4 {
 	margin-top: 40px;
 	font-size: 22px;
 	font-weight: 600;
 	padding-bottom: 30px;
+	color: white;
+	
 }
 .sec-3 {
 	background-color: #fafafa;
@@ -190,11 +203,13 @@ h5 {
 	font-size: 24px;
 	font-weight: 600;
 	margin-bottom: 40px;
+	color: white;
 }
 .item1 p {
 	margin-bottom: 30px;
 	line-height: 1.5;
 	font-weight: 500;
+	color: white;
 }
 .name {
 	padding: 10px;
@@ -215,10 +230,12 @@ i {
 	color:  #5ebd8b;
 }
 .sec-3 .item1 {
-	border-right: 1px solid rgba(255,255,255, 0.3);
+	border-right:  solid rgba(255,255,255, 0.3);
+
 }
 .sec-3 .send button {
 	background-color: white;
 	color: black;
 	border:1px solid grey;
+
 }
